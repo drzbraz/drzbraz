@@ -10,7 +10,7 @@
 
 ## Olá! 👋
 
-Meu nome é Daniel Braz, graduando em Sistemas de Informação pela universidade PUC-Minas (Majoring in Information System from PUC-Minas University).
+Graduando em Sistemas de Informação pela universidade PUC-Minas (Majoring in Information System from PUC-Minas University).
 
 - :office_worker: Estagiário Desenvolvedor na **Mundiale**
 - :blue_heart: Techs: C#, JavaScript, Node.js, Java, entre outras.
