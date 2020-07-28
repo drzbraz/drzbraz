@@ -8,7 +8,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/drzbraz)](https://t.me/drzbraz)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:drz.braz@gmail.com)](mailto:drz.braz@gmail.com)
 
-## Olá! 👋
+## Hi there! 👋
 
 Graduando em Sistemas de Informação pela universidade PUC-Minas (Majoring in Information System from PUC-Minas University).
 
