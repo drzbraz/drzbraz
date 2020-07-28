@@ -12,8 +12,8 @@
 
 Graduando em Sistemas de Informação pela universidade PUC-Minas (Majoring in Information System from PUC-Minas University).
 
-- :office_worker: Estagiário Desenvolvedor na **Mundiale**
-- :blue_heart: Techs: C#, JavaScript, Node.js, Java, entre outras.
-- :books: Estudando React Native, TypeScript e Testes Unitários :heart:
+- :office_worker: Estagiário Desenvolvedor na **Mundiale** (Intern Software Developer in Mundiale).
+- :blue_heart: Techs: C#, JavaScript, NodeJS, Java, HTML/CSS...
+- :books: Estudando React Native, TypeScript e Testes Unitários :heart: (Learning about React Native, TypeScript and Unit Tests).
 
 ---
