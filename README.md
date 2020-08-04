@@ -7,7 +7,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/drzbraz)](https://t.me/drzbraz)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:drz.braz@gmail.com)](mailto:drz.braz@gmail.com)
 
-Graduando em Sistemas de Informação pela universidade PUC-Minas (Majoring in Information System from PUC-Minas University).
+Whats up? 
+
+Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de Informação pela Universidade PUC-Minas (Passionate about movies, technology and astronomy. Majoring in Information System from PUC-Minas University).
 
 - :office_worker: Estagiário Desenvolvedor na **Mundiale** (Intern Software Developer in Mundiale).
 - :blue_heart: Techs: C#, JavaScript, NodeJS, Java, HTML/CSS...
