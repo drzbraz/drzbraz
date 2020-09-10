@@ -1,9 +1,4 @@
-### Spotify Playing 🎧
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&cover_image=false" width="210" height="80"  alt="Now Playing">
-</a>
-
+# 🪐 Daniel Braz
 
 Whats up? 
 
