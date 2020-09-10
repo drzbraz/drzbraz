@@ -11,6 +11,8 @@ Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de In
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=drzbraz&show_icons=true" alt="drzbraz" /> </p>
 
+### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&redirect=true)
 
 <p align="center">
 <a href="https://twitter.com/drzbraz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
@@ -21,5 +23,4 @@ Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de In
 </p>
 
 
-### Spotify Playing 🎧
-[                       ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&redirect=true)
+
