@@ -1,5 +1,3 @@
-# 🪐 Daniel Braz
-
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&redirect=true)
 
