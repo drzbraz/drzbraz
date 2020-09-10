@@ -1,5 +1,3 @@
-# 🪐 Daniel Braz
-
 Whats up? 
 
 Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de Informação pela Universidade PUC-Minas (Passionate about movies, technology and astronomy. Majoring in Information System from PUC-Minas University).
