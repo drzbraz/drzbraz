@@ -19,3 +19,7 @@ Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de In
 <a href="https://fb.com/drzbraz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://instagram.com/drzbraz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
+
+
+### Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
