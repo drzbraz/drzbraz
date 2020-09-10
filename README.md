@@ -1,7 +1,6 @@
-### Spotify Playing 🎧
-[<img width="350" aling="center" src="https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&cover_image=false"/>](https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&redirect=true)
-
 # 🪐 Daniel Braz
+[<img align="center"  src="https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&cover_image=false"/>](https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&redirect=true)
+
 
 Whats up? 
 
