@@ -2,10 +2,12 @@
 
 Whats up? 
 
-Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de Informação pela Universidade PUC-Minas (Passionate about movies, technology and astronomy. Majoring in Information System from PUC-Minas University).
-
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=22scoecwpd2g7bgnd4ncwsjki&redirect=true)
+
+
+Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de Informação pela Universidade PUC-Minas (Passionate about movies, technology and astronomy. Majoring in Information System from PUC-Minas University).
+
 
 - 💻 Estagiário Desenvolvedor na **Mundiale** (Intern Software Developer in Mundiale).
 - 🤖 Techs: C#, JavaScript, NodeJS, Java, HTML/CSS.
