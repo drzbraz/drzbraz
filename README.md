@@ -6,9 +6,6 @@ Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de In
 - 👨‍💻 Techs: C#, JavaScript, NodeJS, Java, HTML/CSS.
 - :books: Estudando React Native, TypeScript e Testes Unitários (Learning about React Native, TypeScript and Unit Tests).
 
-
-<p align="center"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="c#" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="20" height="20"/></p>
-
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
   <img align = "center" src="https://github-readme-stats.vercel.app/api?username=drzbraz&show_icons=true&theme=radical"/>
 </a>
