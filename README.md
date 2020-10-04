@@ -15,10 +15,10 @@ Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de In
 - :books: Estudando React Native, TypeScript e Testes Unitários (Learning about React Native, TypeScript and Unit Tests).
 
 <a href="https://github-readme-stats.vercel.app/api?username=drzbraz">
-  <img align = "center" src="https://github-readme-stats.vercel.app/api?username=drzbraz&show_icons=true&theme=radical"/>
+  <img align = "center" src="https://github-readme-stats.vercel.app/api?username=drzbraz&show_icons=true"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=drzbraz"/>
-  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drzbraz&layout=compact&theme=radical"/>
+  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drzbraz&layout=compact"/>
 </a>
 
 
