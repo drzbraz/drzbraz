@@ -10,7 +10,7 @@ I make computer beep boop beep beep boop... 🤖
 
 Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de Informação pela Universidade PUC-Minas (Passionate about movies, technology and astronomy. Majoring in Information System from PUC-Minas University).
 
-- 💻 Software Developer II na **Mundiale** (Software Developer II in Mundiale).
+- 💻 Software Developer na **Mundiale** (Software Developer at Mundiale).
 - 👨‍💻 Techs: C#, JavaScript, NodeJS, Java, HTML/CSS.
 - :books: Estudando React Native, TypeScript e Testes Unitários (Learning about React Native, TypeScript and Unit Tests).
 
