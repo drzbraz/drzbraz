@@ -1,12 +1,9 @@
-I make computer beep boop beep beep boop... 🤖
-
 <p align="left">
-<a href="https://twitter.com/drzbraz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
+  
 <a href="https://linkedin.com/in/drzbraz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/12340656/daniel-braz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://fb.com/drzbraz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/drzbraz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+  
 </p>
+I make computer beep boop beep beep boop... 🤖
 
 <img align = "right"  width="300" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif"/>
 
