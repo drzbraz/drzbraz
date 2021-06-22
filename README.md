@@ -8,6 +8,8 @@ I make computer beep boop beep beep boop... 🤖
 <a href="https://instagram.com/drzbraz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
 
+<img align = "right"  width="300" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif"/>
+
 Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de Informação pela Universidade PUC-Minas (Passionate about movies, technology and astronomy. Majoring in Information System from PUC-Minas University).
 
 - 💻 Software Developer na **Mundiale** (Software Developer at Mundiale).
