@@ -10,11 +10,9 @@ I make computer beep boop beep beep boop... 🤖
 
 <img align = "right"  width="300" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif"/>
 
-Apaixonado por filmes, tecnologia e astronomia 🤓. Graduando em Sistemas de Informação pela Universidade PUC-Minas (Passionate about movies, technology and astronomy. Majoring in Information System from PUC-Minas University).
+Passionate about movies, technology and astronomy 🤓. Majoring in Information System from PUC-Minas University
 
-- 💻 Software Developer na **Mundiale** (Software Developer at Mundiale).
-- 👨‍💻 Techs: C#, JavaScript, NodeJS, Java, HTML/CSS.
-- :books: Estudando React Native, TypeScript e Testes Unitários (Learning about React Native, TypeScript and Unit Tests).
+- 👨‍💻 Techs: JavaScript, NodeJS, ReactJS.
 
 <a href="https://github-readme-stats.vercel.app/api?username=drzbraz">
   <img align = "center" src="https://github-readme-stats.vercel.app/api?username=drzbraz&show_icons=true"/>
