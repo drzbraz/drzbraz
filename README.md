@@ -11,7 +11,7 @@ I make computer beep boop beep beep boop... 🤖
 
 Passionate about movies, technology and astronomy 🤓. Majoring in Information System from PUC-Minas University
 
-- 👨‍💻 Techs: JavaScript, NodeJS, ReactJS.
+- 👨‍💻 Techs: JavaScript, NodeJS, ReactJS, Golang, Vuejs.
 
 <a href="https://github-readme-stats.vercel.app/api?username=drzbraz">
   <img align = "center" width="400" src="https://github-readme-stats.vercel.app/api?username=drzbraz&show_icons=true"/>
