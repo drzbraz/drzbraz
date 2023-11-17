@@ -1,1 +1,1 @@
-- 👨‍💻 Techs: JavaScript, NodeJS, ReactJS, Golang, Vuejs.
+- 👨‍💻 Tech: JavaScript, NodeJS, ReactJS, Golang, Vuejs.
